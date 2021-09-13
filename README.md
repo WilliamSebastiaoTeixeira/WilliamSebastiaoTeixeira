@@ -1,4 +1,4 @@
-  <h1 align="center"> # Hello World, i’m William Sebastiao Teixeira :call_me_hand: </h1>
+  <h1 align="center"> # Hello World, i’m William :call_me_hand: </h1>
   
   ### :bearded_person: **About me**
   ##### - Started my way as Dev at 16yo with some Arduino projects for scholl. Today, i'm studing to be an complete Fullstack. 
