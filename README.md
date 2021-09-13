@@ -23,11 +23,8 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
   ### :fax: **Contact**
-  ##### Email: williamsebastiaoteixeira@gmail.com
-  ##### Linkedin: [WilliamsTeixeira](https://www.linkedin.com/in/williamsebastiaoteixeira/)
-  
-  
-  
-  
+  ##### - Email: williamsebastiaoteixeira@gmail.com
+  ##### - Linkedin: [WilliamsTeixeira](https://www.linkedin.com/in/williamsebastiaoteixeira/)
+
   > Curious by nature
     
