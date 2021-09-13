@@ -1,13 +1,14 @@
-  <h1 align="center"> # Hello World, i’m William :call_me_hand: </h1>
+  <h1 align="center"> Hello World, i’m William :call_me_hand: </h1>
   
   ### :bearded_person: **About me**
   ##### - Started my way as Dev at 16yo with some Arduino projects for scholl. Today, i'm studing to be an complete Fullstack. 
     
-    
+  #
   ### :mortar_board: **Academic Information**
   ##### - Future degree in Information and Communication Technology at the Federal University of Santa Catarina(~~Hope to finish by the end of 2022~~).
   ##### - Electromechanical technician graduated at the Federal Institute of Santa Catarina in 2017. 
   
+  #
   ### :hammer_and_wrench: **Technological Knowledge**
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -22,9 +23,13 @@
   ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
+  #
   ### :fax: **Contact**
   ##### - Email: williamsebastiaoteixeira@gmail.com
   ##### - Linkedin: [WilliamsTeixeira](https://www.linkedin.com/in/williamsebastiaoteixeira/)
-
-  > Curious by nature
+  
+  
+  # 
+  
+ >Curious by nature
     
